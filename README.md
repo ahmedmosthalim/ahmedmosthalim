@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/ahmed-mostafa-halim"><img src="https://img.shields.io/badge/LinkedIn-ahmed--mostafa--halim-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:ahmed_mostafa_halim@yahoo.com"><img src="https://img.shields.io/badge/Email-ahmed__mostafa__halim%40yahoo.com-6001D2?logo=yahoo&logoColor=white" alt="Email" /></a>
+  <a href="mailto:ahmedmostafahalim@gmail.com"><img src="https://img.shields.io/badge/Email-ahmedmostafahalim%40gmail.com-EA4335?logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Location-Egypt-CE1126" alt="Egypt" />
 </p>
 
@@ -46,7 +46,15 @@ I'm a mobile developer based in Egypt with experience across the whole lifecycle
 
 ### 📊 GitHub stats
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ahmedmosthalim&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmosthalim&layout=compact&theme=github_dark&hide_border=true" />
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ahmedmosthalim&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true&border_radius=12&cache_seconds=21600" alt="GitHub stats" />
+  <img height="170" src="https://streak-stats.demolab.com?user=ahmedmosthalim&theme=tokyonight&hide_border=true&border_radius=12" alt="Contribution streak" />
+</p>
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmosthalim&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12&cache_seconds=21600" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ahmedmosthalim&label=Profile%20views&color=7aa2f7&style=flat" alt="Profile views" />
 </p>
