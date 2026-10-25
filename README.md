@@ -34,27 +34,15 @@ I'm a mobile developer based in Egypt with experience across the whole lifecycle
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
 </p>
 
-### 📌 Selected projects
-
-| Project | What it is |
-|---|---|
-| [egmoneytracker](https://github.com/justnegm/egmoneytracker) | EGMoney: a personal finance PWA with budgets, bills, AI insights and an Arabic/English UI |
-| [AroundEgypt](https://github.com/ahmedmosthalim/AroundEgypt) | An iOS app for exploring Egypt's places and experiences (Swift) |
-| [WoocommerceSwiftUI](https://github.com/ahmedmosthalim/WoocommerceSwiftUI) | A WooCommerce store client built with SwiftUI |
-| [Netflix](https://github.com/ahmedmosthalim/Netflix) | A Netflix-style streaming UI clone (Swift) |
-| [Sports-App](https://github.com/ahmedmosthalim/Sports-App) | Leagues, teams and fixtures (Swift) |
-
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ahmedmosthalim&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true&border_radius=12&cache_seconds=21600" alt="GitHub stats" />
-  <img height="170" src="https://streak-stats.demolab.com?user=ahmedmosthalim&theme=tokyonight&hide_border=true&border_radius=12" alt="Contribution streak" />
+  <img height="170" src="assets/stats.svg" alt="GitHub stats" />
+  <img height="170" src="assets/streak.svg" alt="Contribution streak" />
 </p>
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmosthalim&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12&cache_seconds=21600" alt="Top languages" />
+  <img height="150" src="assets/languages.svg" alt="Most used languages" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmedmosthalim&label=Profile%20views&color=7aa2f7&style=flat" alt="Profile views" />
-</p>
+<p align="center"><sub>Stats refresh daily via a GitHub Action in this repo.</sub></p>
