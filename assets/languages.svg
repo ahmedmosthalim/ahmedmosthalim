@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="350" height="140" viewBox="0 0 350 140" role="img" aria-label="Most used languages">
+<style>.t{font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Sans-Serif;font-weight:600;font-size:18px;fill:#70a5fd}.s{font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Sans-Serif;font-size:14px;fill:#c0caf5}.m{font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Sans-Serif;font-size:12px;fill:#9aa5ce}.b{font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Sans-Serif;font-weight:700;fill:#c0caf5}</style>
+<rect width="350" height="140" rx="12" fill="#1a1b27"/>
+<text x="25" y="35" class="t">Most used languages</text>
+<mask id="r"><rect x="25" y="55" width="300" height="8" rx="4" fill="#fff"/></mask><g mask="url(#r)"><rect x="25.00" y="55" width="262.03" height="8" fill="#F05138"/><rect x="287.03" y="55" width="33.34" height="8" fill="#438eff"/><rect x="320.38" y="55" width="4.62" height="8" fill="#3572A5"/></g><circle cx="30" cy="86" r="5" fill="#F05138"/><text x="42" y="91" class="s">Swift <tspan class="m">87.3%</tspan></text><circle cx="180" cy="86" r="5" fill="#438eff"/><text x="192" y="91" class="s">Objective-C <tspan class="m">11.1%</tspan></text><circle cx="30" cy="111" r="5" fill="#3572A5"/><text x="42" y="116" class="s">Python <tspan class="m">1.5%</tspan></text>
+</svg>
